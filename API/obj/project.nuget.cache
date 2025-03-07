@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yA3JsL+gUcU=",
+  "success": true,
+  "projectFilePath": "/home/marcus/Dev/Projects/ThaiPlayer/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/marcus/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/home/marcus/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
