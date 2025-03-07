@@ -1,9 +1,9 @@
-import YouTubePlayer from "./components/YouTubePlayer";
+import Player from "./components/Player";
 
 const App = () => {
   return (
     <div>
-      <YouTubePlayer videoId="2aTQVe_Y4So" />
+      <Player videoId="2aTQVe_Y4So" />
     </div>
   );
 };
